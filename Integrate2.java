@@ -1,3 +1,4 @@
+/* This class basically to test the commit */
 class Integrate2{
 public static void main(String args[]){
 
